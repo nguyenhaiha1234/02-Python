@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\01 CN2",
+    "\\01 CN2\\Socket",
+    "\\01 CN2\\Socket\\Client",
+    "\\01 CN2\\Socket\\Server"
+  ],
+  "SelectedNode": "\\01 CN2\\Socket\\Client\\client1.py",
+  "PreviewInSolutionExplorer": false
+}

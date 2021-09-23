@@ -1,8 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\01 CN2",
-    "\\01 CN2\\Socket_Learn"
+    ""
   ],
+  "SelectedNode": "\\app-client.py",
   "PreviewInSolutionExplorer": false
 }

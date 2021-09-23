@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\01 CN2",
-    "\\01 CN2\\Socket",
-    "\\01 CN2\\Socket\\Client",
-    "\\01 CN2\\Socket\\Server"
+    "\\01 CN2\\Socket_Learn",
+    "\\01 CN2\\Socket_Learn\\v1"
   ],
-  "SelectedNode": "\\01 CN2\\Socket\\Client\\client1.py",
+  "SelectedNode": "\\01 CN2\\Socket_Learn\\v1\\readme.md",
   "PreviewInSolutionExplorer": false
 }
